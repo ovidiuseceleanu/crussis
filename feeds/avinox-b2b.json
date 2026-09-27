@@ -1,0 +1,8013 @@
+[
+{
+"code": "e-Full 12.11-(600 Wh) (S)",
+"b2b": "3.483,32",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-(600 Wh) (M)",
+"b2b": "3.483,32",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-(600 Wh) (L)",
+"b2b": "3.483,32",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-(600 Wh) (XL)",
+"b2b": "3.483,32",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-(800 Wh) (S)",
+"b2b": "3.666,97",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "In stock",
+"pid": "real_stock",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.11-(800 Wh) (M)",
+"b2b": "3.666,97",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.11-(800 Wh) (L)",
+"b2b": "3.666,97",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-(800 Wh) (XL)",
+"b2b": "3.666,97",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-PRO (600 Wh) (S)",
+"b2b": "5.319,87",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-PRO (600 Wh) (M)",
+"b2b": "5.319,87",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-PRO (600 Wh) (L)",
+"b2b": "5.319,87",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-PRO (600 Wh) (XL)",
+"b2b": "5.319,87",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-PRO (800 Wh) (S)",
+"b2b": "5.503,52",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "In stock",
+"pid": "real_stock",
+"qty": "Order with 13 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.11-PRO (800 Wh) (M)",
+"b2b": "5.503,52",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "In stock",
+"pid": "real_stock",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 14 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.11-PRO (800 Wh) (L)",
+"b2b": "5.503,52",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "In stock",
+"pid": "real_stock",
+"qty": "Order with 13 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 16 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.11-PRO (800 Wh) (XL)",
+"b2b": "5.503,52",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "In stock",
+"pid": "real_stock",
+"qty": "Order with 11 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.11-PRO X (800 Wh) (S)",
+"b2b": "7.340,07",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-PRO X (800 Wh) (M)",
+"b2b": "7.340,07",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "In stock",
+"pid": "real_stock",
+"qty": "Order with 8 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.11-PRO X (800 Wh) (L)",
+"b2b": "7.340,07",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "In stock",
+"pid": "real_stock",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.11-PRO X (800 Wh) (XL)",
+"b2b": "7.340,07",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "In stock",
+"pid": "real_stock",
+"qty": "Order with 9 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 11.11-(600 Wh) (S)",
+"b2b": "2.748,70",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 11.11-(600 Wh) (M)",
+"b2b": "2.748,70",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 11.11-(600 Wh) (L)",
+"b2b": "2.748,70",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 11.11-(600 Wh) (XL)",
+"b2b": "2.748,70",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 11.11-(800 Wh) (S)",
+"b2b": "2.932,35",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 10 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 11.11-(800 Wh) (M)",
+"b2b": "2.932,35",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 11.11-(800 Wh) (L)",
+"b2b": "2.932,35",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 11.11-(800 Wh) (XL)",
+"b2b": "2.932,35",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full 11.11-(600 Wh) (S)",
+"b2b": "2.748,70",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full 11.11-(600 Wh) (M)",
+"b2b": "2.748,70",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full 11.11-(600 Wh) (L)",
+"b2b": "2.748,70",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full 11.11-(600 Wh) (XL)",
+"b2b": "2.748,70",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full 11.11-(800 Wh) (S)",
+"b2b": "2.932,35",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full 11.11-(800 Wh) (M)",
+"b2b": "2.932,35",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full 11.11-(800 Wh) (L)",
+"b2b": "2.932,35",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full 11.11-(800 Wh) (XL)",
+"b2b": "2.932,35",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Hard 11.11 (600 Wh) (S)",
+"b2b": "2.197,73",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Hard 11.11 (600 Wh) (M)",
+"b2b": "2.197,73",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Hard 11.11 (600 Wh) (L)",
+"b2b": "2.197,73",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "In stock",
+"pid": "real_stock",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Hard 11.11 (600 Wh) (XL)",
+"b2b": "2.197,73",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Hard 11.11 (800 Wh) (S)",
+"b2b": "2.381,39",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Hard 11.11 (800 Wh) (M)",
+"b2b": "2.381,39",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Hard 11.11 (800 Wh) (L)",
+"b2b": "2.381,39",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 8 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Hard 11.11 (800 Wh) (XL)",
+"b2b": "2.381,39",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Hard 11.11-PRO (600 Wh) (S)",
+"b2b": "2.871,14",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Hard 11.11-PRO (600 Wh) (M)",
+"b2b": "2.871,14",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Hard 11.11-PRO (600 Wh) (L)",
+"b2b": "2.871,14",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Hard 11.11-PRO (600 Wh) (XL)",
+"b2b": "2.871,14",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Hard 11.11-PRO (800 Wh) (S)",
+"b2b": "3.054,79",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Hard 11.11-PRO (800 Wh) (M)",
+"b2b": "3.054,79",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Hard 11.11-PRO (800 Wh) (L)",
+"b2b": "3.054,79",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "In stock",
+"pid": "real_stock",
+"qty": "Order with 1 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Hard 11.11-PRO (800 Wh) (XL)",
+"b2b": "3.054,79",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Country AX 8.12-M2(600)S",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX 8.12-M2(600)M",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX 8.12-M2(600)L",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX 8.12-M2(800)S",
+"b2b": "1.835,93",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX 8.12-M2(800)M",
+"b2b": "1.835,93",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX 8.12-M2(800)L",
+"b2b": "1.835,93",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country AX 8.12-M2(600)S",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country AX 8.12-M2(600)M",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country AX 8.12-M2(600)L",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country AX 8.12-M2(800)S",
+"b2b": "1.835,93",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country AX 8.12-M2(800)M",
+"b2b": "1.835,93",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country AX 8.12-M2(800)L",
+"b2b": "1.835,93",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX 10.12-M2(600)S",
+"b2b": "2.019,59",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX 10.12-M2(600)M",
+"b2b": "2.019,59",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX 10.12-M2(600)L",
+"b2b": "2.019,59",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX 10.12-M2(800)S",
+"b2b": "2.295,07",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX 10.12-M2(800)M",
+"b2b": "2.295,07",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX 10.12-M2(800)L",
+"b2b": "2.295,07",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX 10.12-M2S(800)S",
+"b2b": "2.417,51",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX 10.12-M2S(800)M",
+"b2b": "2.417,51",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX 10.12-M2S(800)L",
+"b2b": "2.417,51",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country AX 10.12-M2(600)S",
+"b2b": "2.019,59",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country AX 10.12-M2(600)M",
+"b2b": "2.019,59",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country AX 10.12-M2(600)L",
+"b2b": "2.019,59",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country AX 10.12-M2(800)S",
+"b2b": "2.295,07",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country AX 10.12-M2(800)M",
+"b2b": "2.295,07",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 12 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country AX 10.12-M2(800)L",
+"b2b": "2.295,07",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 7 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country AX 10.12-M2S(800)S",
+"b2b": "2.417,51",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country AX 10.12-M2S(800)M",
+"b2b": "2.417,51",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country AX 10.12-M2S(800)L",
+"b2b": "2.417,51",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX MTB 8.12-M2(600)S",
+"b2b": "1.652,28",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX MTB 8.12-M2(600)M",
+"b2b": "1.652,28",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX MTB 8.12-M2(600)L",
+"b2b": "1.652,28",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX MTB 8.12-M2(800)S",
+"b2b": "1.774,72",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 13 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Country AX MTB 8.12-M2(800)M",
+"b2b": "1.774,72",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 6 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Country AX MTB 8.12-M2(800)L",
+"b2b": "1.774,72",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country AX MTB 8.12-M2(600)S",
+"b2b": "1.652,28",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country AX MTB 8.12-M2(600)M",
+"b2b": "1.652,28",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country AX MTB 8.12-M2(600)L",
+"b2b": "1.652,28",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country AX MTB 8.12-M2(800)S",
+"b2b": "1.774,72",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 6 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country AX MTB 8.12-M2(800)M",
+"b2b": "1.774,72",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country AX MTB 8.12-M2(800)L",
+"b2b": "1.774,72",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 12 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Country AX MTB 10.12-M2(800)S",
+"b2b": "2.172,64",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 8 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 7 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Country AX MTB 10.12-M2(800)M",
+"b2b": "2.172,64",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 14 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 12 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Country AX MTB 10.12-M2(800)L",
+"b2b": "2.172,64",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 7 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Country AX MTB 10.12-M2(600)S",
+"b2b": "1.897,15",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX MTB 10.12-M2(600)M",
+"b2b": "1.897,15",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX MTB 10.12-M2(600)L",
+"b2b": "1.897,15",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country AX MTB 10.12-M2S(800)S",
+"b2b": "2.295,07",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 6 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Country AX MTB 10.12-M2S(800)M",
+"b2b": "2.295,07",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 13 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 7 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Country AX MTB 10.12-M2S(800)L",
+"b2b": "2.295,07",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 8 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country AX MTB 10.12-M2(600)S",
+"b2b": "1.897,15",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country AX MTB 10.12-M2(600)M",
+"b2b": "1.897,15",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country AX MTB 10.12-M2(600)L",
+"b2b": "1.897,15",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country AX MTB 10.12-M2(800)S",
+"b2b": "2.172,64",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 8 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country AX MTB 10.12-M2(800)M",
+"b2b": "2.172,64",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 19 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 13 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country AX MTB 10.12-M2(800)L",
+"b2b": "2.172,64",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 8 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 9 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country AX MTB 10.12-M2S(800)S",
+"b2b": "2.295,07",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 11 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 7 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country AX MTB 10.12-M2S(800)M",
+"b2b": "2.295,07",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 15 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country AX MTB 10.12-M2S(800)L",
+"b2b": "2.295,07",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 6 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 6 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Country full AX 10.12-M2(600)S",
+"b2b": "2.448,12",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country full AX 10.12-M2(600)M",
+"b2b": "2.448,12",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country full AX 10.12-M2(600)L",
+"b2b": "2.448,12",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country full AX 10.12-M2(800)S",
+"b2b": "2.692,99",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country full AX 10.12-M2(800)M",
+"b2b": "2.692,99",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country full AX 10.12-M2(800)L",
+"b2b": "2.692,99",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country full AX 10.12-M2S(800)S",
+"b2b": "2.815,43",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country full AX 10.12-M2S(800)M",
+"b2b": "2.815,43",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country full AX 10.12-M2S(800)L",
+"b2b": "2.815,43",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country full AX 10.12-M2(600)S",
+"b2b": "2.448,12",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country full AX 10.12-M2(600)M",
+"b2b": "2.448,12",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country full AX 10.12-M2(600)L",
+"b2b": "2.448,12",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country full AX 10.12-M2(800)S",
+"b2b": "2.692,99",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country full AX 10.12-M2(800)M",
+"b2b": "2.692,99",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country full AX 10.12-M2(800)L",
+"b2b": "2.692,99",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country full AX 10.12-M2S(800)S",
+"b2b": "2.815,43",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country full AX 10.12-M2S(800)M",
+"b2b": "2.815,43",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country full AX 10.12-M2S(800)L",
+"b2b": "2.815,43",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country full AX MTB 10.12-M2(600)S",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country full AX MTB 10.12-M2(600)M",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country full AX MTB 10.12-M2(600)L",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country full AX MTB 10.12-M2(800)S",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country full AX MTB 10.12-M2(800)M",
+"b2b": "2.570,55",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Country full AX MTB 10.12-M2(800)L",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country full AX MTB 10.12-M2S(800)S",
+"b2b": "2.692,99",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country full AX MTB 10.12-M2S(800)M",
+"b2b": "2.692,99",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country full AX MTB 10.12-M2S(800)L",
+"b2b": "2.692,99",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country full AX MTB 10.12-M2(600)S",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country full AX MTB 10.12-M2(600)M",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country full AX MTB 10.12-M2(600)L",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country full AX MTB 10.12-M2(800)S",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country full AX MTB 10.12-M2(800)M",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country full AX MTB 10.12-M2(800)L",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country full AX MTB 10.12-M2S(800)S",
+"b2b": "2.692,99",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Country full AX MTB 10.12-M2S(800)M",
+"b2b": "2.692,99",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Country full AX MTB 10.12-M2S(800)L",
+"b2b": "2.692,99",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV low AX 8.12-M2(600)S",
+"b2b": "1.713,50",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 11 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV low AX 8.12-M2(600)M",
+"b2b": "1.713,50",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 12 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV low AX 8.12-M2(600)L",
+"b2b": "1.713,50",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV low AX 8.12-M2(800)S",
+"b2b": "1.835,93",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 8 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV low AX 8.12-M2(800)M",
+"b2b": "1.835,93",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV low AX 8.12-M2(800)L",
+"b2b": "1.835,93",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 17 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV AX 8.12-M2(600)M",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV AX 8.12-M2(600)L",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV AX 8.12-M2(600)XL",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV AX 8.12-M2(800)M",
+"b2b": "1.835,93",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV AX 8.12-M2(800)L",
+"b2b": "1.835,93",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 9 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV AX 8.12-M2(800)XL",
+"b2b": "1.835,93",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV low AX 9.12-M2(600)S",
+"b2b": "1.835,93",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 6 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV low AX 9.12-M2(600)M",
+"b2b": "1.835,93",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 6 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV low AX 9.12-M2(600)L",
+"b2b": "1.835,93",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV low AX 9.12-M2(800)S",
+"b2b": "2.142,03",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 14 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV low AX 9.12-M2(800)M",
+"b2b": "2.142,03",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 16 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 10 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV low AX 9.12-M2(800)L",
+"b2b": "2.142,03",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 7 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV low AX 9.12-M2S(600)S",
+"b2b": "2.080,81",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV low AX 9.12-M2S(600)M",
+"b2b": "2.080,81",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV low AX 9.12-M2S(600)L",
+"b2b": "2.080,81",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV low AX 9.12-M2S(800)S",
+"b2b": "2.325,68",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 9 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV low AX 9.12-M2S(800)M",
+"b2b": "2.325,68",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 6 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 19 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV low AX 9.12-M2S(800)L",
+"b2b": "2.325,68",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV AX 9.12-M2(600)M",
+"b2b": "1.835,93",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV AX 9.12-M2(600)L",
+"b2b": "1.835,93",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV AX 9.12-M2(600)XL",
+"b2b": "1.835,93",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV AX 9.12-M2(800)M",
+"b2b": "2.142,03",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 9 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV AX 9.12-M2(800)L",
+"b2b": "2.142,03",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV AX 9.12-M2(800)XL",
+"b2b": "2.142,03",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 8 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV AX 9.12-M2S(600)M",
+"b2b": "2.080,81",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV AX 9.12-M2S(600)L",
+"b2b": "2.080,81",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV AX 9.12-M2S(600)XL",
+"b2b": "2.080,81",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV AX 9.12-M2S(800)M",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV AX 9.12-M2S(800)L",
+"b2b": "2.325,68",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 17 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-SUV AX 9.12-M2S(800)XL",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX SUV 9.12-M2(600)S",
+"b2b": "2.325,68",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 9.12-M2(600)M",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX SUV 9.12-M2(600)L",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX SUV 9.12-M2(600)XL",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX SUV 9.12-M2(800)S",
+"b2b": "2.570,55",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 9.12-M2(800)M",
+"b2b": "2.570,55",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 9.12-M2(800)L",
+"b2b": "2.570,55",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 9.12-M2(800)XL",
+"b2b": "2.570,55",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 9.12-M2S(600)S",
+"b2b": "2.448,12",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 9.12-M2S(600)M",
+"b2b": "2.448,12",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 9.12-M2S(600)L",
+"b2b": "2.448,12",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 9.12-M2S(600)XL",
+"b2b": "2.448,12",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 9.12-M2S(800)S",
+"b2b": "2.692,99",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 9.12-M2S(800)M",
+"b2b": "2.692,99",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 20 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 9.12-M2S(800)L",
+"b2b": "2.692,99",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 9.12-M2S(800)XL",
+"b2b": "2.692,99",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 10 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 10.12-M2(600)S",
+"b2b": "2.570,55",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 10.12-M2(600)M",
+"b2b": "2.570,55",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 10.12-M2(600)L",
+"b2b": "2.570,55",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 10.12-M2(600)XL",
+"b2b": "2.570,55",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 10.12-M2(800)S",
+"b2b": "2.815,43",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 10.12-M2(800)M",
+"b2b": "2.815,43",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 10.12-M2(800)L",
+"b2b": "2.815,43",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 10.12-M2(800)XL",
+"b2b": "2.815,43",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 10.12-M2S(800)S",
+"b2b": "2.937,86",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 10.12-M2S(800)M",
+"b2b": "2.937,86",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX SUV 10.12-M2S(800)L",
+"b2b": "2.937,86",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX SUV 10.12-M2S(800)XL",
+"b2b": "2.937,86",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Fionna AX 9.12-M2(600)S",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Fionna AX 9.12-M2(600)M",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Fionna AX 9.12-M2(600)L",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Fionna AX 9.12-M2(800)S",
+"b2b": "1.988,98",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Fionna AX 9.12-M2(800)M",
+"b2b": "1.988,98",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Fionna AX 9.12-M2(800)L",
+"b2b": "1.988,98",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Fionna AX 9.12-M2S(600)S",
+"b2b": "1.897,15",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Fionna AX 9.12-M2S(600)M",
+"b2b": "1.897,15",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Fionna AX 9.12-M2S(600)L",
+"b2b": "1.897,15",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Fionna AX 9.12-M2S(800)S",
+"b2b": "2.142,03",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Fionna AX 9.12-M2S(800)M",
+"b2b": "2.142,03",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Fionna AX 9.12-M2S(800)L",
+"b2b": "2.142,03",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Fionna AX 9.12-M2(600)S",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Fionna AX 9.12-M2(600)M",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Fionna AX 9.12-M2(800)S",
+"b2b": "1.988,98",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Fionna AX 9.12-M2(800)M",
+"b2b": "1.988,98",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Fionna AX 9.12-M2S(600)S",
+"b2b": "1.897,15",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Fionna AX 9.12-M2S(600)M",
+"b2b": "1.897,15",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Fionna AX 9.12-M2S(800)S",
+"b2b": "2.142,03",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 7 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Fionna AX 9.12-M2S(800)M",
+"b2b": "2.142,03",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Largo AX 9.12-M2(600)S",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Largo AX 9.12-M2(600)M",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Largo AX 9.12-M2(600)L",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Largo AX 9.12-M2(600)XL",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Largo AX 9.12-M2(800)S",
+"b2b": "1.988,98",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Largo AX 9.12-M2(800)M",
+"b2b": "1.988,98",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Largo AX 9.12-M2(800)L",
+"b2b": "1.988,98",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Largo AX 9.12-M2(800)XL",
+"b2b": "1.988,98",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Largo AX 9.12-M2S(600)S",
+"b2b": "1.897,15",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Largo AX 9.12-M2S(600)M",
+"b2b": "1.897,15",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Largo AX 9.12-M2S(600)L",
+"b2b": "1.897,15",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Largo AX 9.12-M2S(600)XL",
+"b2b": "1.897,15",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Largo AX 9.12-M2S(800)S",
+"b2b": "2.142,03",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Largo AX 9.12-M2S(800)M",
+"b2b": "2.142,03",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Largo AX 9.12-M2S(800)L",
+"b2b": "2.142,03",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Largo AX 9.12-M2S(800)XL",
+"b2b": "2.142,03",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Largo AX 9.12-M2(600)S",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Largo AX 9.12-M2(600)M",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Largo AX 9.12-M2(600)L",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Largo AX 9.12-M2(600)XL",
+"b2b": "1.713,50",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Largo AX 9.12-M2(800)S",
+"b2b": "1.988,98",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Largo AX 9.12-M2(800)M",
+"b2b": "1.988,98",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Largo AX 9.12-M2(800)L",
+"b2b": "1.988,98",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Largo AX 9.12-M2(800)XL",
+"b2b": "1.988,98",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Largo AX 9.12-M2S(600)S",
+"b2b": "1.897,15",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Largo AX 9.12-M2S(600)M",
+"b2b": "1.897,15",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Largo AX 9.12-M2S(600)L",
+"b2b": "1.897,15",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Largo AX 9.12-M2S(600)XL",
+"b2b": "1.897,15",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Largo AX 9.12-M2S(800)S",
+"b2b": "2.142,03",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Largo AX 9.12-M2S(800)M",
+"b2b": "2.142,03",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Largo AX 9.12-M2S(800)L",
+"b2b": "2.142,03",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Largo AX 9.12-M2S(800)XL",
+"b2b": "2.142,03",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Fionna AX 10.12-M2(600)S",
+"b2b": "1.988,98",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Fionna AX 10.12-M2(600)M",
+"b2b": "1.988,98",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 6 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Fionna AX 10.12-M2(600)L",
+"b2b": "1.988,98",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Fionna AX 10.12-M2(800)S",
+"b2b": "2.233,85",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 6 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Fionna AX 10.12-M2(800)M",
+"b2b": "2.233,85",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 10 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 6 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Fionna AX 10.12-M2(800)L",
+"b2b": "2.233,85",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Fionna AX 10.12-M2S(800)S",
+"b2b": "2.386,90",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Fionna AX 10.12-M2S(800)M",
+"b2b": "2.386,90",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Fionna AX 10.12-M2S(800)L",
+"b2b": "2.386,90",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Fionna AX 10.12-M2(600)S",
+"b2b": "1.988,98",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Fionna AX 10.12-M2(600)M",
+"b2b": "1.988,98",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Fionna AX 10.12-M2(800)S",
+"b2b": "2.233,85",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 6 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 6 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Fionna AX 10.12-M2(800)M",
+"b2b": "2.233,85",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 9 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Fionna AX 10.12-M2S(800)S",
+"b2b": "2.386,90",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Fionna AX 10.12-M2S(800)M",
+"b2b": "2.386,90",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Largo AX 10.12-M2(600)S",
+"b2b": "1.988,98",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Largo AX 10.12-M2(600)M",
+"b2b": "1.988,98",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Largo AX 10.12-M2(600)L",
+"b2b": "1.988,98",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Largo AX 10.12-M2(600)XL",
+"b2b": "1.988,98",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Largo AX 10.12-M2(800)S",
+"b2b": "2.233,85",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Largo AX 10.12-M2(800)M",
+"b2b": "2.233,85",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Largo AX 10.12-M2(800)L",
+"b2b": "2.233,85",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 12 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 9 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Largo AX 10.12-M2(800)XL",
+"b2b": "2.233,85",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Largo AX 10.12-M2S(800)S",
+"b2b": "2.386,90",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Largo AX 10.12-M2S(800)M",
+"b2b": "2.386,90",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Largo AX 10.12-M2S(800)L",
+"b2b": "2.386,90",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 9 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Largo AX 10.12-M2S(800)XL",
+"b2b": "2.386,90",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Largo AX 10.12-M2(600)S",
+"b2b": "1.988,98",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Largo AX 10.12-M2(600)M",
+"b2b": "1.988,98",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Largo AX 10.12-M2(600)L",
+"b2b": "1.988,98",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Largo AX 10.12-M2(600)XL",
+"b2b": "1.988,98",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Largo AX 10.12-M2(800)S",
+"b2b": "2.233,85",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Largo AX 10.12-M2(800)M",
+"b2b": "2.233,85",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Largo AX 10.12-M2(800)L",
+"b2b": "2.233,85",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 7 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 6 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Largo AX 10.12-M2(800)XL",
+"b2b": "2.233,85",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Largo AX 10.12-M2S(800)S",
+"b2b": "2.386,90",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Largo AX 10.12-M2S(800)M",
+"b2b": "2.386,90",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Largo AX 10.12-M2S(800)L",
+"b2b": "2.386,90",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Largo AX 10.12-M2S(800)XL",
+"b2b": "2.386,90",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX 9.12-M2(600)S",
+"b2b": "2.142,03",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 9.12-M2(600)M",
+"b2b": "2.142,03",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX 9.12-M2(600)L",
+"b2b": "2.142,03",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 9.12-M2(600)XL",
+"b2b": "2.142,03",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 9.12-M2(800)S",
+"b2b": "2.386,90",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 9.12-M2(800)M",
+"b2b": "2.386,90",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 9.12-M2(800)L",
+"b2b": "2.386,90",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 9.12-M2(800)XL",
+"b2b": "2.386,90",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 9.12-M2S(600)S",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 9.12-M2S(600)M",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 9.12-M2S(600)L",
+"b2b": "2.325,68",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX 9.12-M2S(600)XL",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 9.12-M2S(800)S",
+"b2b": "2.509,34",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 9.12-M2S(800)M",
+"b2b": "2.509,34",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX 9.12-M2S(800)L",
+"b2b": "2.509,34",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 9.12-M2S(800)XL",
+"b2b": "2.509,34",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 9.12-M2(600)S",
+"b2b": "2.142,03",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Full AX 9.12-M2(600)M",
+"b2b": "2.142,03",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 9.12-M2(600)L",
+"b2b": "2.142,03",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 9.12-M2(600)XL",
+"b2b": "2.142,03",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 9.12-M2(800)S",
+"b2b": "2.386,90",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 9.12-M2(800)M",
+"b2b": "2.386,90",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 9.12-M2(800)L",
+"b2b": "2.386,90",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 9.12-M2(800)XL",
+"b2b": "2.386,90",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Full AX 9.12-M2S(600)S",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 9.12-M2S(600)M",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 9.12-M2S(600)L",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 9.12-M2S(600)XL",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 9.12-M2S(800)S",
+"b2b": "2.503,21",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 9.12-M2S(800)M",
+"b2b": "2.503,21",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Full AX 9.12-M2S(800)L",
+"b2b": "2.503,21",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Full AX 9.12-M2S(800)XL",
+"b2b": "2.503,21",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 10.12-M2(600)S",
+"b2b": "2.386,90",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 10.12-M2(600)M",
+"b2b": "2.386,90",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 10.12-M2(600)L",
+"b2b": "2.386,90",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 10.12-M2(600)XL",
+"b2b": "2.386,90",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 10.12-M2(800)S",
+"b2b": "2.631,77",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 10.12-M2(800)M",
+"b2b": "2.631,77",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX 10.12-M2(800)L",
+"b2b": "2.631,77",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX 10.12-M2(800)XL",
+"b2b": "2.631,77",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 10.12-M2S(800)S",
+"b2b": "2.754,21",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 10.12-M2S(800)M",
+"b2b": "2.754,21",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 10.12-M2S(800)L",
+"b2b": "2.754,21",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 10.12-M2S(800)XL",
+"b2b": "2.754,21",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 10.12-M2(600)S",
+"b2b": "2.386,90",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 10.12-M2(600)M",
+"b2b": "2.386,90",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Full AX 10.12-M2(600)L",
+"b2b": "2.386,90",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 10.12-M2(600)XL",
+"b2b": "2.386,90",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 10.12-M2(800)S",
+"b2b": "2.631,77",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Full AX 10.12-M2(800)M",
+"b2b": "2.631,77",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Full AX 10.12-M2(800)L",
+"b2b": "2.631,77",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "ONE-Full AX 10.12-M2(800)XL",
+"b2b": "2.631,77",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 10.12-M2S(800)S",
+"b2b": "2.754,21",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 10.12-M2S(800)M",
+"b2b": "2.754,21",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 10.12-M2S(800)L",
+"b2b": "2.754,21",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "ONE-Full AX 10.12-M2S(800)XL",
+"b2b": "2.754,21",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 10.12-PRO-M2S(600)S",
+"b2b": "3.427,61",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 10.12-PRO-M2S(600)M",
+"b2b": "3.427,61",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 10.12-PRO-M2S(600)L",
+"b2b": "3.427,61",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 10.12-PRO-M2S(600)XL",
+"b2b": "3.427,61",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 10.12-PRO-M2S(800)S",
+"b2b": "3.672,48",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX 10.12-PRO-M2S(800)M",
+"b2b": "3.672,48",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 10.12-PRO-M2S(800)L",
+"b2b": "3.672,48",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX 10.12-PRO-M2S(800)XL",
+"b2b": "3.672,48",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 11.12-PRO-(600)S",
+"b2b": "3.550,05",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 11.12-PRO-(600)M",
+"b2b": "3.550,05",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 11.12-PRO-(600)L",
+"b2b": "3.550,05",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 11.12-PRO-(600)XL",
+"b2b": "3.550,05",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 11.12-PRO-(800)S",
+"b2b": "3.794,92",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 11.12-PRO-(800)M",
+"b2b": "3.794,92",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 7 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 11.12-PRO-(800)L",
+"b2b": "3.794,92",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 11.12-PRO-(800)XL",
+"b2b": "3.794,92",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 9.12 REM-M2(600)S",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 9.12 REM-M2(600)M",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 9.12 REM-M2(600)L",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 9.12 REM-M2(600)XL",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 9.12 REM-M2(800)S",
+"b2b": "2.815,43",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 12 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 9.12 REM-M2(800)M",
+"b2b": "2.815,43",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 9.12 REM-M2(800)L",
+"b2b": "2.815,43",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 9.12 REM-M2(800)XL",
+"b2b": "2.815,43",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 9.12 REM-M2S(600)S",
+"b2b": "2.692,99",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 9.12 REM-M2S(600)M",
+"b2b": "2.692,99",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 9.12 REM-M2S(600)L",
+"b2b": "2.692,99",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 9.12 REM-M2S(600)XL",
+"b2b": "2.692,99",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 9.12 REM-M2S(800)S",
+"b2b": "2.937,86",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 8 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 9.12 REM-M2S(800)M",
+"b2b": "2.937,86",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 9.12 REM-M2S(800)L",
+"b2b": "2.937,86",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 9.12 REM-M2S(800)XL",
+"b2b": "2.937,86",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 10.12 REM-M2(600)S",
+"b2b": "2.815,43",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12 REM-M2(600)M",
+"b2b": "2.815,43",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12 REM-M2(600)L",
+"b2b": "2.815,43",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 10.12 REM-M2(600)XL",
+"b2b": "2.815,43",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 10.12 REM-M2(800)S",
+"b2b": "3.060,30",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 10.12 REM-M2(800)M",
+"b2b": "3.060,30",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 19 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 10.12 REM-M2(800)L",
+"b2b": "3.060,30",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 10.12 REM-M2(800)XL",
+"b2b": "3.060,30",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 17 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 10.12 REM-M2S(800)S",
+"b2b": "3.182,74",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12 REM-M2S(800)M",
+"b2b": "3.182,74",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12 REM-M2S(800)L",
+"b2b": "3.182,74",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12 REM-M2S(800)XL",
+"b2b": "3.182,74",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-PRO REM-M2S(600)S",
+"b2b": "3.856,14",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-PRO REM-M2S(600)M",
+"b2b": "3.856,14",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-PRO REM-M2S(600)L",
+"b2b": "3.856,14",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-PRO REM-M2S(600)XL",
+"b2b": "3.856,14",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 10.12-PRO REM-M2S(800)S",
+"b2b": "4.101,01",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 10.12-PRO REM-M2S(800)M",
+"b2b": "4.101,01",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-PRO REM-M2S(800)L",
+"b2b": "4.101,01",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-PRO REM-M2S(800)XL",
+"b2b": "4.101,01",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.11-REM-(600)S",
+"b2b": "3.550,05",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-REM-(600)M",
+"b2b": "3.550,05",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-REM-(600)L",
+"b2b": "3.550,05",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-REM-(600)XL",
+"b2b": "3.550,05",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-REM-(800)S",
+"b2b": "3.733,70",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-REM-(800)M",
+"b2b": "3.733,70",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-REM-(800)L",
+"b2b": "3.733,70",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.11-REM-(800)XL",
+"b2b": "3.733,70",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-PRO REM-(600)S",
+"b2b": "5.386,59",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.11-PRO REM-(600)M",
+"b2b": "5.386,59",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.11-PRO REM-(600)L",
+"b2b": "5.386,59",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-PRO REM-(600)XL",
+"b2b": "5.386,59",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full 12.11-PRO REM-(800)S",
+"b2b": "5.570,25",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.11-PRO REM-(800)M",
+"b2b": "5.570,25",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.11-PRO REM-(800)L",
+"b2b": "5.570,25",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.11-PRO REM-(800)XL",
+"b2b": "5.570,25",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.11-PRO X REM-(800)S",
+"b2b": "7.345,58",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.11-PRO X REM-(800)M",
+"b2b": "7.345,58",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.11-PRO X REM-(800)L",
+"b2b": "7.345,58",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 5 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.11-PRO X REM-(800)XL",
+"b2b": "7.345,58",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.12-PRO X2 REM-(800)S",
+"b2b": "7.957,76",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.12-PRO X2 REM-(800)M",
+"b2b": "7.957,76",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.12-PRO X2 REM-(800)L",
+"b2b": "7.957,76",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.12-PRO X2 REM-(800)XL",
+"b2b": "7.957,76",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 9.12-M2(600)S",
+"b2b": "2.509,34",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 9.12-M2(600)M",
+"b2b": "2.509,34",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "3. production (2-4/2027)",
+"pid": "3. production (2-4/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 9.12-M2(600)L",
+"b2b": "2.509,34",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 9.12-M2(600)XL",
+"b2b": "2.509,34",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 9.12-M2(800)S",
+"b2b": "2.754,21",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 9.12-M2(800)M",
+"b2b": "2.754,21",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 13 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 7 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 9.12-M2(800)L",
+"b2b": "2.754,21",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 16 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 9.12-M2(800)XL",
+"b2b": "2.754,21",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 10 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 11 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 9.12-M2S(600)S",
+"b2b": "2.631,77",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 9.12-M2S(600)M",
+"b2b": "2.631,77",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 9.12-M2S(600)L",
+"b2b": "2.631,77",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 9.12-M2S(600)XL",
+"b2b": "2.631,77",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 9.12-M2S(800)S",
+"b2b": "2.876,65",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 14 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 9.12-M2S(800)M",
+"b2b": "2.876,65",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 9.12-M2S(800)L",
+"b2b": "2.876,65",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 19 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 9.12-M2S(800)XL",
+"b2b": "2.876,65",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 20+ pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 10.12-M2(600)S",
+"b2b": "2.754,21",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-M2(600)M",
+"b2b": "2.754,21",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-M2(600)L",
+"b2b": "2.754,21",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-M2(600)XL",
+"b2b": "2.754,21",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-M2(800)S",
+"b2b": "2.999,08",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 10.12-M2(800)M",
+"b2b": "2.999,08",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 10.12-M2(800)L",
+"b2b": "2.999,08",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 9 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 10.12-M2(800)XL",
+"b2b": "2.999,08",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 3 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 10.12-M2S(800)S",
+"b2b": "3.121,52",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-M2S(800)M",
+"b2b": "3.121,52",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-M2S(800)L",
+"b2b": "3.121,52",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-M2S(800)XL",
+"b2b": "3.121,52",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-PRO-M2S(600)S",
+"b2b": "3.794,92",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-PRO-M2S(600)M",
+"b2b": "3.794,92",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-PRO-M2S(600)L",
+"b2b": "3.794,92",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-PRO-M2S(600)XL",
+"b2b": "3.794,92",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-PRO-M2S(800)S",
+"b2b": "4.039,79",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 2 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full AX CARB 10.12-PRO-M2S(800)M",
+"b2b": "4.039,79",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-PRO-M2S(800)L",
+"b2b": "4.039,79",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Full AX CARB 10.12-PRO-M2S(800)XL",
+"b2b": "4.039,79",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 4 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.12-PRO X2(800)S",
+"b2b": "7.957,76",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "1. production (10-12/2026)",
+"pid": "1. production (10-12/2026)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.12-PRO X2(800)M",
+"b2b": "7.957,76",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.12-PRO X2(800)L",
+"b2b": "7.957,76",
+"info": [
+"Order with"
+],
+"ks": [],
+"opts": [
+{
+"label": "2. production (1-3/2027)",
+"pid": "2. production (1-3/2027)",
+"qty": "Order with 1 pc"
+},
+{
+"label": "4. production (5-6/2027)",
+"pid": "4. production (5-6/2027)",
+"qty": "Order with 20+ pc"
+}
+]
+},
+{
+"code": "e-Full 12.12-PRO X2(800)XL",
+"b2b": "7.957,76",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country BELT AX 10.12-M2(600)S",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country BELT AX 10.12-M2(600)M",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country BELT AX 10.12-M2(600)L",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country BELT AX 10.12-M2(800)S",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country BELT AX 10.12-M2(800)M",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country BELT AX 10.12-M2(800)L",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country BELT AX 10.12-M2-AUTO(600)S",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country BELT AX 10.12-M2-AUTO(600)M",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country BELT AX 10.12-M2-AUTO(600)L",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country BELT AX 10.12-M2-AUTO(800)S",
+"b2b": "2.815,43",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country BELT AX 10.12-M2-AUTO(800)M",
+"b2b": "2.815,43",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-Country BELT AX 10.12-M2-AUTO(800)L",
+"b2b": "2.815,43",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV low BELT AX 10.12-M2(600)S",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV low BELT AX 10.12-M2(600)M",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV low BELT AX 10.12-M2(600)L",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV low BELT AX 10.12-M2(800)S",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV low BELT AX 10.12-M2(800)M",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV low BELT AX 10.12-M2(800)L",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV low BELT AX 10.12-M2-AUTO(600)S",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV low BELT AX 10.12-M2-AUTO(600)M",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV low BELT AX 10.12-M2-AUTO(600)L",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV low BELT AX 10.12-M2-AUTO(800)S",
+"b2b": "2.815,43",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV low BELT AX 10.12-M2-AUTO(800)M",
+"b2b": "2.815,43",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV low BELT AX 10.12-M2-AUTO(800)L",
+"b2b": "2.815,43",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV BELT AX 10.12-M2(600)M",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV BELT AX 10.12-M2(600)L",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV BELT AX 10.12-M2(600)XL",
+"b2b": "2.325,68",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV BELT AX 10.12-M2(800)M",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV BELT AX 10.12-M2(800)L",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV BELT AX 10.12-M2(800)XL",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV BELT AX 10.12-M2-AUTO(600)M",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV BELT AX 10.12-M2-AUTO(600)L",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV BELT AX 10.12-M2-AUTO(600)XL",
+"b2b": "2.570,55",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV BELT AX 10.12-M2-AUTO(800)M",
+"b2b": "2.815,43",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV BELT AX 10.12-M2-AUTO(800)L",
+"b2b": "2.815,43",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+},
+{
+"code": "e-SUV BELT AX 10.12-M2-AUTO(800)XL",
+"b2b": "2.815,43",
+"info": [
+"Order with 4. production (5-6/2027)"
+],
+"ks": [
+"20+ pc"
+],
+"opts": []
+}
+]

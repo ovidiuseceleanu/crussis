@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.DS_Store
+~$*
+Crussis Avinox images/
+Avinox images/
+feeds/avail.xml
